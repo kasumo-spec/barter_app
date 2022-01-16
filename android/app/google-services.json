@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375937543759",
+    "project_id": "bdo-barter-app",
+    "storage_bucket": "bdo-barter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375937543759:android:1354c26ccbe4604f14443a",
+        "android_client_info": {
+          "package_name": "com.allefmoraes.barterbdoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375937543759-ott07mhfcs2g9iqjeskgrta6bqev7vdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9NmlxsGRad2GELLbu7wKRXGL5iqP3kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375937543759-ott07mhfcs2g9iqjeskgrta6bqev7vdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

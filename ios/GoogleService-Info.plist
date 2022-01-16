@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>375937543759-6pmgedgkhpgma1nv81rg48lvgq15s0c5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.375937543759-6pmgedgkhpgma1nv81rg48lvgq15s0c5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCYyoYq9mTq6d667d2fVcLeFObEiTi36JE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>375937543759</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.allefmoraes.barterbdoapp</string>
+	<key>PROJECT_ID</key>
+	<string>bdo-barter-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bdo-barter-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:375937543759:ios:c5be402410ac825814443a</string>
+</dict>
+</plist>
